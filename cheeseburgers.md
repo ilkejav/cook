@@ -1,18 +1,18 @@
 #Cheeseburgers
 ###Ingrédients
 
-2 lbs boeuf haché maigre ou extra-maigre
-2 jaune d'oeuf
-oignon rouge haché
-sauce Worcestershire
-6 pain à hamburger
-fromage cheddar jaune râpé (ou autre fromage au goût)
-1 tomate en tranches
-laitue romaine
-mayonnaise
-huile d'olive
-herbes de Provence
-sel et poivre au goût
+- 2 lbs boeuf haché maigre ou extra-maigre
+- 2 jaune d'oeuf
+- oignon rouge haché
+- sauce Worcestershire
+- 6 pain à hamburger
+- fromage cheddar jaune râpé (ou autre fromage au goût)
+- 1 tomate en tranches
+- laitue romaine
+- mayonnaise
+- huile d'olive
+- herbes de Provence
+- sel et poivre au goût
 
 ###Préparation
 

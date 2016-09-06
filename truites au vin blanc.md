@@ -1,4 +1,5 @@
 #truites au vin blanc
+
 ###Ingrédients
 
 - 4 truites fraîches, évidées
